@@ -4,7 +4,7 @@
 
 ```
 conda env create -f environment.yml
-conda activate PETReconsist
+conda activate SCOPE
 ```
 
 ### System Dependencies
@@ -16,7 +16,7 @@ sudo apt install -y libgl1-mesa-glx
 
 ### Dataset Preprocessing
 
-We used [ADNI PET data](https://adni.loni.usc.edu/data-samples/adni-data/neuroimaging/pet/), and  preprocessed it using the scripts in the `preprocessed/` directory.
+We used [ADNI PET data](https://adni.loni.usc.edu/data-samples/adni-data/neuroimaging/pet/), and preprocessed it using the scripts in the `preprocessing/` directory.
 
 You also need `data_csv.csv` which should include following columns:
 ```csv

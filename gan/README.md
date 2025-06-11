@@ -14,6 +14,10 @@ sudo apt update
 sudo apt install -y libgl1-mesa-glx
 ```
 
+### Dataset Preprocessing
+
+We used [ADNI PET data](https://adni.loni.usc.edu/data-samples/adni-data/neuroimaging/pet/), and preprocessed it using the scripts in the `preprocessing/` directory .
+
 ### Dataset Structure
 The directory containing PET data should follow this structure:
 ```commandline
