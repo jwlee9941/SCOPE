@@ -42,9 +42,9 @@ cd bbdm/
 
 ## 📊 Results
 
-### Figure
+### Qualitative Results
 
-![Reconstruction Example](./fig/fig1.png)
+![Reconstruction Result](./fig/fig1.png)
 
 ### Quantitative Results
 
