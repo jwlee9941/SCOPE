@@ -1,4 +1,4 @@
-# SCOPE: Slice-COnsistent PET Reconstruction with BBDM
+# SCOPE: Slice-COnsistent PET Reconstruction with 2D BBDM
 
 > This project was conducted by the **Computer Vision team** as part of the 2025 Spring modeling project at [**Data Science Lab, Yonsei University**](https://github.com/DataScience-Lab-Yonsei).
 
