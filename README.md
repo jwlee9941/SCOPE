@@ -1,10 +1,10 @@
-# 🧠 SCOPE: Slice-COnsistent PET Reconstruction with BBDM
+# SCOPE: Slice-COnsistent PET Reconstruction with BBDM
 
 > This project was conducted by the **Computer Vision team** as part of the 2025 Spring modeling project at [**Data Science Lab, Yonsei University**](https://github.com/DataScience-Lab-Yonsei).
 
 
 
-## 👥 Team
+## Team
 
 | Cohort | Members                            |
 |--------|------------------------------------|
@@ -23,7 +23,7 @@ For more detailed explanations, methodology, and analysis, please refer to the [
 
 ---
 
-## 🚀 How to Run Code
+## How to Run Code
 
 This project contains two main components:
 
@@ -40,11 +40,15 @@ cd bbdm/
 
 ---
 
-## 📊 Results
+## Results
 
 ### Qualitative Results
 
-![Reconstruction Result](./fig/fig1.png)
+![Reconstruction Result1](./fig/fig1.png)
+
+![Reconstruction Result2](./fig/fig2.png)
+
+![Reconstruction Result3](./fig/fig3.png)
 
 ### Quantitative Results
 
@@ -52,13 +56,13 @@ cd bbdm/
 
 ---
 
-## 📅 License
+## License
 
 Some parts of this codebase are adapted from external repositories with their own licenses. For exact licensing terms, please refer to each respective repository listed in the `Acknowledgement` section.
 
 ---
 
-## 🙏 Acknowledgement
+## Acknowledgement
 
 This project is based on:
 
