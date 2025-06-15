@@ -18,7 +18,7 @@
 
 ![Cover Image](./fig/cover.png)
 
-For more detailed explanations, methodology, and analysis, please refer to the [project report](./report/report.pdf).
+For more detailed explanations, methodology, and analysis, please refer to the [project report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jwlee9941/SCOPE/main/report/report.pdf)
 
 
 ---
